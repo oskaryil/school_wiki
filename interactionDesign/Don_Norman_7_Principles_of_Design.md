@@ -52,3 +52,8 @@ It is hard to create s standard with signifiers because there's patents for ever
 
 
 
+- - -
+
+### Further Reading
+[Summary of Don Norman's Design Principles](https://www.csun.edu/science/courses/671/bibliography/preece.html)
+
