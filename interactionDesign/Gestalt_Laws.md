@@ -36,4 +36,5 @@ The Law of Closure implies that things are grouped together if it comepletes or 
 
 ## The Law of Common Region/Fate
 
+Visual elements moving together in the same direction tend to be percieved as a group.
 
