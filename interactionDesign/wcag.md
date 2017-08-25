@@ -1,5 +1,6 @@
 #WCAG
-** Web Content Accessibility Guidelines**
+
+**Web Content Accessibility Guidelines**
 
 [TOC]
 
