@@ -2,7 +2,7 @@
 
 ## Visibility / Discoverability
 * The user must know about all possibilities and how to access them.
-	* As an example a user must know how to start a computer right away
+	* As an example a user must know how to start a computer the right away
 
 **To summarize**: Not much effort should be requried by the user to find out how to use something.
 
