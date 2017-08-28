@@ -34,7 +34,7 @@ Similar actions should produce similar effect each time.
 * Interfaces should contain similar operations and similar elements for things that trigger similar tasks.
 
 ## Affordance
-* The relationship between how something looks and how it's ued.
+* The relationship between how something looks and how it's used.
 * Possible actions
 * "Leading" the user to doing something.
 	* an "invite"
