@@ -26,4 +26,4 @@ Partesmodellen
 * **Actio** - att framföra, att agera. Hur man ska använda sitt kroppsspråk och röst. Ska du stå stilla? Ska du prata högre?
 * **Emendiato** - att korrigera. Bearbetar talet tills nästa gång, eller reflekterar redan innan. Om man känner att det inte riktigt kommer bli rätt.(Tillkom senare)
 
-** Ha inte ett full text manus**
+**Ha inte ett full text manus**
