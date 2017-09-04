@@ -2,7 +2,7 @@
 
 ## Visibility / Discoverability
 * The user must know about all possibilities and how to access them.
-	* As an example a user must know how to start a computer right away
+	* As an example a user must know how to start a computer the right away
 
 **To summarize**: Not much effort should be requried by the user to find out how to use something.
 
@@ -34,7 +34,7 @@ Similar actions should produce similar effect each time.
 * Interfaces should contain similar operations and similar elements for things that trigger similar tasks.
 
 ## Affordance
-* The relationship between how something looks and how it's ued.
+* The relationship between how something looks and how it's used.
 * Possible actions
 * "Leading" the user to doing something.
 	* an "invite"
@@ -53,7 +53,7 @@ It is hard to create s standard with signifiers because there's patents for ever
 
 
 - - -
-
+	
 ### Further Reading
 [Summary of Don Norman's Design Principles](https://www.csun.edu/science/courses/671/bibliography/preece.html)
 
