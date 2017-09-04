@@ -10,6 +10,8 @@ There are multiple **Gestalt Laws**
 
 Multiple objects that are similar tend to appear like they're grouped together. This is a physcologic effect which can occur in both a visual and auditory stimuli.
 
+**Example:** On a tv remote, the number buttons look the same. Grouped.
+
 ![Brand association](http://www.color-wheel-pro.com/pics/infographic-small.jpg) "Brand association"
 
 ## Law of Pragnanz
@@ -38,3 +40,4 @@ The Law of Closure implies that things are grouped together if it comepletes or 
 
 Visual elements moving together in the same direction tend to be percieved as a group.
 
+**Example:** If 10 dots move in the same direction except one of them, the one not moving is not grouped.
