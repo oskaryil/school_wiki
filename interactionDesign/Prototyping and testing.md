@@ -24,6 +24,7 @@ During these tests, things that you might not even have thought of might show up
 
 ## Wizard of Oz
 
+You have one test person and one person "behind the scenes". So for example when the test person clicks the button the person behind the scenes does something. This is to see if the concept of the idea works. 
 
 ## Observation
 
